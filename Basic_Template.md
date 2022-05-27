@@ -1,4 +1,6 @@
-![Holberton Logo](https://raw.githubusercontent.com/jhonbuenoco/README-Templates/main/holberton-logo.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jhonbueno/holbertonschool-higher_level_programming/main/holberton-logo.png">
+</p>
 
 # Project Title
 
